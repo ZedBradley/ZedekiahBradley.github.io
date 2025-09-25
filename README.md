@@ -1,2 +1,2 @@
-# ZedekiahBradley.github.io
+# ZedBradley.github.io
 Simple website
